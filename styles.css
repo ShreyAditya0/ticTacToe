@@ -41,3 +41,6 @@ h1 {
     font-size: 1em;
     cursor: pointer;
 }
+.winner {
+    background-color: yellow;
+}
